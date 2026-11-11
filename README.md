@@ -17,8 +17,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://iiirnby.github.io/Product-Preview-Card-Component/]
 
 ## My process
 
@@ -44,5 +43,5 @@ Improving adaptability.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [https://iiirnby.github.io/Product-Preview-Card-Component/]
 - Frontend Mentor - [@IIIRNBY]
